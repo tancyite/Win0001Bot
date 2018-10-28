@@ -1,15 +1,13 @@
 {
   "name": "winbot",
-  "version": "1.0.0",
-  "description": "",
+  "description": "winbot",
+  "version": "0.0.0",
   "main": "index.js",
- "scripts": {
+  "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2"
-   "request": "2.81.0" 
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }
