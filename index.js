@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const Winbot = new Discord.Client();
 
     // вход
-Winbot.login(process.env.NTA1OTUzODQ4ODU5Mjk1NzQ1.DrbF1A.BVhUWiWiySW7a2UeQHMHuWOkh4s);
+Winbot.login(process.env.BOT_TOKEN);
 
 
 Winbot.on('ready', () => {
